@@ -50,6 +50,7 @@
     "vitest": "^2.1.8",
     "sass": "^1.83.1",
     "sass-loader": "^16.0.4"
+
   },
   "overrides": {
     "webpack": "^5.97.1"
